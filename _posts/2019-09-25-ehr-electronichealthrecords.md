@@ -4,7 +4,7 @@ category: blog
 permalink: /:categories/:year/:month/:day/:title
 title: "The future of electronic health records"
 tags: ['electronic health records']
-image: "2019-09-25/natural.png"
+image: "2019-09-25/nature_1.png"
 identifier: 3
 ---
 
@@ -14,7 +14,7 @@ Author: Jeff Hecht
 <!--more-->
 
 <blockquote class="tip">
-<strong>Understanding PD:</strong> Parkinson's disease is a chronic, degenerative neurological disorder that affects one in 100 people over age 60.  <a href="https://www.nature.com/articles/d41586-019-02876-y">
+Original article:  <a href="https://www.nature.com/articles/d41586-019-02876-y">
 Nature, OUTLOOK @ 25 SEPTEMBER 2019</a>
 </blockquote>
 
